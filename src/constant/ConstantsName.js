@@ -1,0 +1,11 @@
+export var  ListItemType="listItem";
+export var productItemName="productItem";
+export var listCartStoreName="listCartStoreName";
+export var addcart='addcart';
+export var increase='increase';
+export var decrease='decrease';
+export var del='delete';
+export var BuySuccess='Update Success .Thanks';
+export var DelSuccess="Delete Success !!";
+export var increaseSuc="Increase Success !!";
+export var decreaseSuc="decrease Success !!";
